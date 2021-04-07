@@ -6,6 +6,7 @@ class Like
 	public OnClick;
 	//OnClick == Boolean
 	public Postid;
+	public comment;
 	const DB = 'One_Community.Like';
 
 	function insertDocument(   
