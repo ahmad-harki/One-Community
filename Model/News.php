@@ -8,3 +8,5 @@ class News
     const DB = 'One_Community.News';
 }
 ?>
+
+<!-- Hello From News -->
